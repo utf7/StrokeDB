@@ -17,7 +17,7 @@ Prerequisites for building StrokeDB:
 * Java 8 or 11   
 
 ```
-git clone https://github.com/utf7/strokedb.git  
+git clone https://github.com/utf7/StrokeDB.git  
 cd StrokeDB  
 mvn clean package -DskipTests # this will take up to 5 minutes  
 ```
