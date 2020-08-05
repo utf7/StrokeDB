@@ -1,7 +1,7 @@
 # StrokeDB
 StrokeDB means Stroke for Fun 
 
-# FBI WARNING
+## FBI WARNING
 
 StrokeDB just like the name,just for fun(coding),please don't use in production environment.
 
@@ -38,7 +38,7 @@ This article describes [how to contribute to StrokeDB](https://github.com/utf7/S
 
 StrokeDB is an open source project with Apache License 2.0.
 
-# FBI WARNING AGAIN
+## FBI WARNING AGAIN
 StrokeDB just like the name,just for fun(coding),please don't use in production environment.
 
 
