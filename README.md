@@ -31,7 +31,7 @@ We recommend IntelliJ IDEA for developing StrokeDB projects.
 
 This is an stroke open-source project. We are always open to people who want to stroke for fun.  
 Contact me if you are looking for implementation tasks that fit your skills.  
-This article describes [how to contribute to StrokeDB](https://github.com/utf7/StrokeDB/contributing/how-to-contribute.md).  
+This article describes [how to contribute to StrokeDB](https://github.com/utf7/StrokeDB/docs/howto/how-to-contribute.md).  
 
 
 ## About
