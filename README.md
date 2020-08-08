@@ -5,8 +5,6 @@ StrokeDB means Stroke for Fun
 
 StrokeDB just like the name,just for fun(coding),please don't use in production environment.
 
-划水DB，主要用来划水（coding)，请勿用于生产环境
-
 ## Building StrokeDB from source 
 
 Prerequisites for building StrokeDB:
