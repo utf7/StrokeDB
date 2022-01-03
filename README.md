@@ -17,7 +17,7 @@ Prerequisites for building StrokeDB:
 ```
 git clone https://github.com/utf7/StrokeDB.git  
 cd StrokeDB  
-mvn clean package -DskipTests # this will take up to 5 minutes  
+mvn clean package -DskipTests # this will take up to 2 minutes  
 ```
 
 ## IDEA RECOMMEND  
